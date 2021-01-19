@@ -1,3 +1,1 @@
 # YazilimGelistiriciYetisticiKampi
-# YazilimGelistiriciYetisticiKampi
-# YazilimGelistiriciYetisticiKampi
