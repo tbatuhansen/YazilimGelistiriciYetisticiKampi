@@ -1,0 +1,6 @@
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe.config
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.pdb
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.exe
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.pdb
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.csprojResolveAssemblyReference.cache
